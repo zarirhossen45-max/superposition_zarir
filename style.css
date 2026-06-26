@@ -1,4 +1,15 @@
 /* বেসিক রিসেট */
+/* ফাইলের একদম শুরুতে এই লিঙ্কটি পেস্ট করুন গুগল ফন্ট আনার জন্য */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600;700&display=swap');
+
+/* এরপর body সেকশনের font-family পরিবর্তন করে এটি লিখুন */
+body {
+    background-color: #f4f7f6;
+    color: #333;
+    line-height: 1.6;
+    font-family: 'Hind Siliguri', sans-serif; /* এখানে পরিবর্তন হলো */
+}
+
 * {
     margin: 0;
     padding: 0;
